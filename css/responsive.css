@@ -1,0 +1,199 @@
+/* Normal desktop(xl) :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.subscriber-form button a {
+	display: inline-block;
+	margin-top: 1px;
+}
+.subscriber-form input {
+	width: 400px;
+}
+
+}
+
+
+/* Normal desktop(lg) :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-right ul li {
+	margin-left: 30px;
+}
+.slider-height {
+	background-size: cover;
+	background-position: center;
+}
+.subscriber-form form {
+	text-align: center;
+}
+.subscriber-form button {
+	margin-top: 20px;
+}
+.items-name {
+	margin-bottom: 30px;
+}
+.catagory-active .slick-arrow {
+	left: 400px;
+}
+.catagory-active .slick-arrow.slick-next {
+	left: 460px;
+}
+.new-txt {
+	top: 14%;
+}
+.new-txt.second-bg {
+	top: 0%;
+}
+.new-txt.third-bg {
+	top: 0%;
+}
+.new-txt.fourth-bg {
+	top: 0%;
+}
+.second-page-btn {
+	transform: translateY(0);
+}
+.product-second-active .slick-arrow {
+	left: 44%;
+}
+.main-menu ul li {
+	margin-right: 26px;
+}
+.logo img {
+	margin-left: -225px;
+}
+}
+
+ 
+/* Tablet desktop(md) :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul li ul.submenu li:first-child {
+	margin-top: 15px;
+}
+.main-menu ul li ul.submenu {
+	z-index: 222;
+}
+.main-menu ul li:hover .mega-menu.fluid-mega-menu {
+	top: 45%;
+}
+.main-menu ul li .mega-menu {
+	width: 650px;
+	z-index: 33;
+}
+.product-tab ul li {
+	margin-right: 50px;
+}
+.subscriber-form form {
+	text-align: center;
+}
+.subscriber-form input {
+	margin-bottom: 20px;
+}
+.copyright-link span a {
+	margin-right: 17px;
+}
+.social-icon a {
+	margin-left: 20px;
+}
+.search-box {
+	right: -80px;
+}
+.header-right ul li .minicart-wrapper {
+	right: -48px;
+}
+.items-name {
+	margin-bottom: 30px;
+}
+.catagory-active .slick-arrow {
+	left: 287px;
+}
+.catagory-active .slick-arrow.slick-next {
+	left: 348px;
+}
+.second-page-btn {
+	transform: translateY(0);
+}
+.new-txt {
+	background:none;
+}
+.second-bg {
+	top: -18%;
+}
+.third-bg {
+	top: -18%;
+}
+.fourth-bg {
+	top: -18%;
+}
+.product-second-active .slick-arrow {
+	left: 41%;
+}
+
+}
+
+ 
+/* small mobile(xs) :320px. */
+@media (max-width: 767px) {
+.product-tab ul.text-position {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.product-tab ul li {
+	margin-right: 14px;
+}
+.pets-wrapper {
+	text-align: center;
+}
+.subscriber-form input {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.subscriber-form form {
+	text-align: center;
+}
+.copyright-link span a:last-child {
+	margin-right: 0;
+	margin: 0 16px;
+}
+.alignment-fixed .social-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.copyright-link {
+	margin-bottom: 20px;
+}
+.footer-border {
+	padding: 50px 0;
+}
+.brand-area {
+	padding-bottom: 50px;
+}
+.subscriber-area {
+	padding-bottom: 50px;
+}
+.product-area {
+	padding-bottom: 50px;
+}
+.pets-area {
+	padding-bottom: 20px;
+	padding-top: 50px;
+}
+.gray-bg {
+	padding: 60px 0;
+}
+.cart-btn {
+	transform: translateX(24%);
+}
+.brand-active {
+	padding-left: 50px;
+}
+.copyright-link {
+	text-align: center;
+}
+ 
+}
+ 
+/* Large Mobile(sm) :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
